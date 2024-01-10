@@ -39,7 +39,7 @@ See points in parentheses before each item. Negative points means the candidate 
 ### Documentation
 
 - [ ] (2) Clear instructions for project setup
-- [ ] (1) Clear code comments, but _only when necessary_. Comments are for the why, not the what
+- [ ] (-1) Clear code comments, but _only when necessary_. Comments are for the why, not the what
 
 ## Git Hygiene
 
