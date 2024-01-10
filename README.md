@@ -34,8 +34,7 @@ For reference, see the below guidelines we use for peer code review at Exodus.
 ## Documentation
 
 - [ ] Clear instructions for project setup
-- [ ] Clear code comments, but _only when necessary_
-- [ ] Comments are for the why, not the what
+- [ ] Clear code comments, but _only when necessary_. Comments are for the why, not the what
 
 ## Code Reviews
 
