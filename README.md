@@ -1,4 +1,4 @@
-# Code Guidelines
+# Code and Process Guidelines
 
 For reference, see the below guidelines we use for peer code review at Exodus. You can follow this checklist when evaluating a code challenge submission.
 
