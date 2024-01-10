@@ -44,10 +44,9 @@ See points in parentheses before each item. Negative points means the candidate 
 ## Git Hygiene
 
 > [!IMPORTANT]
-> GRADING (SECTION SCORE)
 >
-> - Candidates should score at least 5 points (or skip if not working with Pull Requests, e.g. in the context of a code challenge)
-> - Colleagues should score at least 10 points
+> - Candidates should score at least 5 points in this section (or skip if not working with Pull Requests, e.g. in the context of a code challenge)
+> - Colleagues should score at least 10 points in this section
 
 - [ ] (1) Commits tend towards atomic (take care of a single thing)
 - [ ] (1) Commit messages are descriptive and follow the [seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/)
@@ -66,9 +65,8 @@ If using Pull Requests:
 _Note: naturally, this is only relevant if you're reviewing Pull Requests_
 
 > [!IMPORTANT]
-> GRADING (SECTION SCORE)
 >
-> - Everyone should score at least 3 points
+> Everyone should score at least 3 points in this section
 
 - [ ] (2) Interaction between peers (author and reviewers) is civil, timely and open to suggestions
 - [ ] (1) Does not nit-pick too much, or about things that should be covered by automated tools (like linters, formatters, etc.)
