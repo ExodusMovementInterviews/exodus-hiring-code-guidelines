@@ -45,22 +45,14 @@ See points in parentheses before each item. Negative points mean the candidate c
 
 ## Git Hygiene
 
-> [!IMPORTANT]
->
-> - Candidates should score at least 5 points in this section (or skip if not working with Pull Requests, e.g. in the context of a code challenge)
-> - Colleagues should score at least 10 points in this section
-
 - [ ] (1) Commits tend towards atomic (take care of a single thing)
 - [ ] (1) Commit messages are descriptive and follow the [seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/)
 
-If using Pull Requests:
+## Pull Requests
 
 - [ ] (1) Pull requests are atomic (take care of a single thing) and functional (don’t leave the program in a half-functioning state)
 - [ ] (1) Pull requests have proper description, mentioning the what and the why and (infrequently and if complex) the how, and include detailed test plans (steps + expected outcome)
-- [ ] (1) Knows how to rebase commits
-- [ ] (1) Knows how and when to squash/fixup commits
-- [ ] (1) Pull requests follow the Pull Request template in the repo (if one is present)
-- [ ] (1) Knows how to create and maintain (through rebasing) a chain of related pull requests for easier review and merging (Bonus for candidates, requirement for colleagues)
+- [ ] (-1) Pull requests follow the Pull Request template in the repo (if one is present)
 
 ## Code Reviews
 
