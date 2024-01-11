@@ -18,7 +18,7 @@ See points in parentheses before each item. Negative points mean the candidate c
 
 ### Functionality
 
-- [ ] (1) All task requirements are fully implemented, tradeoffs made are documented, explanations are provided for any missing pieces
+- [ ] (1) All task requirements are fully implemented
 - [ ] (1) Not obviously broken
 - [ ] (1) No dubious functionality on top of the spec
 - [ ] (1) Not over-engineered, e.g., doesn’t prematurely optimize at the expense of complexity
