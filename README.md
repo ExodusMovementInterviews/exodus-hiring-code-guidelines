@@ -14,7 +14,7 @@ See points in parentheses before each item. Negative points mean the candidate c
 > [!IMPORTANT]
 > GRADING (SECTION SCORE)
 >
-> - Everyone should score at least 10 points (tests optional for candidates)
+> - Everyone should score at least 10 points
 
 ### Functionality
 
