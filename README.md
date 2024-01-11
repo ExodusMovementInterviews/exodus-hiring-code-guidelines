@@ -4,10 +4,12 @@ For reference, see the below guidelines we use for peer code review at Exodus. Y
 
 ## Grading
 
-See points in parentheses before each item. Negative points mean the candidate can only lose points for that item. The expected Total Score:
+See points in parentheses before each item. Negative points mean the candidate can only lose points for that item.
 
-- Candidates should score a total of >15 points if they use PRs, >10 otherwise
-- Colleagues should score a total of >20 points
+> [!IMPORTANT]
+> GRADING (SECTION SCORE)
+>
+> Minimum Total Score: 10
 
 ## Code
 
