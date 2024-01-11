@@ -7,16 +7,11 @@ For reference, see the below guidelines we use for peer code review at Exodus. Y
 See points in parentheses before each item. Negative points mean the candidate can only lose points for that item.
 
 > [!IMPORTANT]
-> GRADING (SECTION SCORE)
+> GRADING (TOTAL SCORE)
 >
-> Minimum Total Score: 10
+> Minimum: 10
 
 ## Code
-
-> [!IMPORTANT]
-> GRADING (SECTION SCORE)
->
-> - Everyone should score at least 10 points
 
 ### Functionality
 
