@@ -28,7 +28,7 @@ See points in parentheses before each item. Negative points mean the candidate c
 - [ ] (2) Code is readable: linted, prettified, and written in a consistent style
 - [ ] (1) Code is self-documenting: semantic variables names, function names describe implemented function
 - [ ] (1) Code is as simple as possible and modular
-  - Small single-purpose functions > giant functions that do 10 things
+  - Small single-purpose functions are preferred to giant functions that do 10 things
   - Code is logically separated (e.g., no giant utils folders)
 - [ ] (2) Author uses objects, arrays, inheritance, closures, callbacks, promises expertly, and is up to date with the language/technology, e.g., async/- [ ] await > promise chains > callbacks for code after 2019
 - [ ] (1) Tests are included and:
