@@ -4,7 +4,7 @@ For reference, see the below guidelines we use for peer code review at Exodus. Y
 
 ## Grading
 
-See points in parentheses before each item. Negative points mean the candidate can only lose points for that item.
+See points in parentheses before each item. Negative points mean the candidate can only lose points for that item. If a candidate blows your mind in some section (e.g. their tests are comprehensive, or their code is super duper awesome readable), you can give them a bonus point.
 
 > [!IMPORTANT]
 > GRADING (TOTAL SCORE)
