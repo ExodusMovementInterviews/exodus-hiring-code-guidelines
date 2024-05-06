@@ -22,7 +22,8 @@ See points in parentheses before each item. Negative points mean the candidate c
 
 ### Code Quality
 
-- [ ] (2) Code is readable: linted, prettified, and written in a consistent style
+- [ ] (1) Code is readable: linted, prettified, and written in a consistent style
+- [ ] (1) Good error handling
 - [ ] (1) Code is self-documenting: semantic variables names, function names describe implemented function
 - [ ] (1) Code is as simple as possible and modular
   - Small single-purpose functions are preferred to giant functions that do 10 things
