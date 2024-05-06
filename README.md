@@ -25,7 +25,7 @@ See points in parentheses before each item. Negative points mean the candidate c
 - [ ] (1) Code is readable: linted, prettified, and written in a consistent style
 - [ ] (1) Good error handling
   - Let errors bubble up unless you know exactly how to handle them.
-  - Avoid swallowing errors in low-level libraries/modules, e.g. in exodus-hydra modules.
+  - Avoid swallowing errors in low-level libraries/modules.
   - Don’t return null / undefined to indicate failure.
   - Avoid giant try/catch statements. It should be clear from the `try/catch` what might throw and why.
   - See also Error Handling: Avoid Blind catch-es
