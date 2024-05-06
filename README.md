@@ -28,7 +28,6 @@ See points in parentheses before each item. Negative points mean the candidate c
   - Avoid swallowing errors in low-level libraries/modules.
   - Don’t return null / undefined to indicate failure.
   - Avoid giant try/catch statements. It should be clear from the `try/catch` what might throw and why.
-  - See also Error Handling: Avoid Blind catch-es
   - Don’t return null / undefined to indicate failure.
 - [ ] (1) Code is self-documenting: semantic variables names, function names describe implemented function
 - [ ] (1) Code is as simple as possible and modular
