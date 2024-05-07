@@ -22,7 +22,12 @@ See points in parentheses before each item. Negative points mean the candidate c
 
 ### Code Quality
 
-- [ ] (2) Code is readable: linted, prettified, and written in a consistent style
+- [ ] (1) Code is readable: linted, prettified, and written in a consistent style
+- [ ] (1) Good error handling
+  - Let errors bubble up unless you know exactly how to handle them.
+  - Avoid swallowing errors in low-level libraries/modules.
+  - Don’t return null / undefined to indicate failure.
+  - Avoid giant try/catch statements. It should be clear from the `try/catch` what might throw and why.
 - [ ] (1) Code is self-documenting: semantic variables names, function names describe implemented function
 - [ ] (1) Code is as simple as possible and modular
   - Small single-purpose functions are preferred to giant functions that do 10 things
